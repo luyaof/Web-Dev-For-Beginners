@@ -5,7 +5,7 @@
 
 ## 课前测试
 
-[课前测试](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/15?loc=zh_cn)
+[课前测试](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/15?loc=zh_cn)
 
 ### 介绍
 
@@ -217,7 +217,7 @@ HTML 中还有一些狂野的'旧'标签，玩起来仍然很有趣。虽然[这
 
 ## 课后测试
 
-[课后测试](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/16?loc=zh_ch)
+[课后测试](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/16?loc=zh_ch)
 
 ## 复习 & 预习
 
@@ -228,4 +228,4 @@ HTML是 '久经考验的' 构建模块系统，它帮助构建了今天的 web �
 
 ## 作业
 
-[练习你的 HTML：建立一个博客模型](assignment.zh-tw.md)
+[练习你的 HTML：建立一个博客模型](assignment.zh-cn.md)
